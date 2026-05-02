@@ -1,4 +1,4 @@
-# 📊 US Sales Analysis Dashboard (Choropleth Map)
+# 📊 US Regional Sales Analysis 
 
 ## 🔍 Overview
 
